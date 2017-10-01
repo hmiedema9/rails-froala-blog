@@ -50,3 +50,4 @@ gem 'clearance'
 gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'wysiwyg-rails'
+gem "font-awesome-rails"
